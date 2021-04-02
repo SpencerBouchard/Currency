@@ -1,6 +1,6 @@
 package currency;
 
-import util1228.Utilities;
+import util.Utilities;
 
 /**
  * This is the driver program for a currency converter that converts command
